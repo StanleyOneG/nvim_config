@@ -1,1 +1,0 @@
-require("edgedb-vim").setup()
