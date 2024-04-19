@@ -1,5 +1,7 @@
 vim.cmd("let g:netrw_liststyle = 3")
 
+vim.cmd("let g:python3_host_prog = '/Users/stanislav/.pyenv/versions/nvim_py/bin/python'")
+
 local opt = vim.opt
 
 opt.relativenumber = true
