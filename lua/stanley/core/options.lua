@@ -1,7 +1,7 @@
 vim.cmd("let g:netrw_liststyle = 3")
 
-vim.cmd("let g:poetv_set_environment = 1")
-vim.cmd("let g:python3_host_prog = '/Users/stanislav/.pyenv/versions/nvim_py/bin/python'")
+-- vim.cmd("let g:python3_host_prog = '/Users/stanislav/nvim_brew_py/bin/python'")
+-- vim.cmd("let g:poetv_set_environment = 1")
 
 local opt = vim.opt
 

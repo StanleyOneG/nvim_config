@@ -1,3 +1,0 @@
-return {
-    "petobens/poet-v",
-}
