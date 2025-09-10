@@ -1,0 +1,3 @@
+return {
+  "florisbosch/edgedb-vim",
+}
